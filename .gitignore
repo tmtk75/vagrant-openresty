@@ -1,0 +1,4 @@
+.vagrant
+*.rpm
+.*.swp
+log
